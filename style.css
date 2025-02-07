@@ -34,6 +34,10 @@ body {
   footer
  {
     background-color: white;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
   }
   
   .cta {
@@ -58,4 +62,14 @@ body {
   .carre-contenu {
     border-right: 1px solid #8e86b5;
     border-bottom: 1px solid #8e86b5;
+    padding: 50px;
+  }
+
+  section {
+    padding: 80px;
+  }
+
+  .a-propos {
+    margin:auto;
+    width: 50%;
   }
